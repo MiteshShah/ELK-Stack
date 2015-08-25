@@ -167,7 +167,7 @@
         "searchSourceJSON": "{\"index\":\"logstash-*\",\"query\":{\"query_string\":{\"query\":\"*\",\"analyze_wildcard\":true}},\"filter\":[]}"
       }
     }
-  }
+  },
   {
     "_id": "Gateway",
     "_type": "dashboard",
